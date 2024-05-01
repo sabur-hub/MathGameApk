@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "gamemath",
+    "slug": "gamemath",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./img/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./img/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./img/icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "58d4c2d0-d646-4c5e-b086-7d3f158e5ee0"
+      }
+    },
+    "android": {
+      "package": "com.abubakr2013.gamemath"
+    }
+  }
+}
